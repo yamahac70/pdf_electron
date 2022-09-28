@@ -1,0 +1,1 @@
+const electron = window.require("electron")
